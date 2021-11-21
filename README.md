@@ -2,7 +2,7 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![stars](https://img.shields.io/github/stars/LaurenceLiZhixin?style=social) ![follower](https://img.shields.io/github/followers/LaurenceLiZhixin?style=social)
 
-Hi guys,I am Laurence ,a cloud native middleware engineer from Hangzhou, China, graduated from SYSU, software engineering bachlor’s degree. I Mainly research microservices, middleware, service framework, Golang, network protocol. Apache Dubbo Committer. 
+Hi guys,I am Laurence, 22 years old, Apache Dubbo PMC. A cloud native middleware engineer from Hangzhou, China, graduated from SYSU, software engineering bachlor’s degree. I Mainly research microservices, middleware, service framework, Golang, network protocol.
 
 Now I'm working in Alibaba Cloud.
 
