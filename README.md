@@ -2,7 +2,7 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![stars](https://img.shields.io/github/stars/LaurenceLiZhixin?style=social) ![follower](https://img.shields.io/github/followers/LaurenceLiZhixin?style=social)
 
-Hi guys,I am Laurence, 23 years old, Apache Dubbo [PMC](https://www.apache.org/dev/pmc.html), author of [alibaba/IOC-golang](https://github.com/alibaba/ioc-golang.git) . A cloud native middleware engineer from Hangzhou, China, graduated from [SYSU](http://www.sysu.edu.cn/cn/index.htm), software engineering bachelor’s degree. I Mainly research microservices, cloud-native, IOC framework, Golang, Edge Computing. Contributor of apache/dubbo, apache/rocketmq, dapr, cloudwego/kitex and so on.
+Hi guys,I am Laurence, 23 years old, Apache Dubbo [PMC](https://www.apache.org/dev/pmc.html), author of [alibaba/IOC-golang](https://github.com/alibaba/ioc-golang.git), member of [openyurt](https://github.com/openyurtio) . A cloud native middleware engineer from Hangzhou, China, graduated from [SYSU](http://www.sysu.edu.cn/cn/index.htm), software engineering bachelor’s degree. I Mainly research microservices, cloud-native, IOC framework, Golang, Edge Computing. Contributor of apache/dubbo, apache/rocketmq, dapr, cloudwego/kitex and so on.
 
 Now I'm working in [Alibaba Cloud](https://www.aliyun.com/).
 
